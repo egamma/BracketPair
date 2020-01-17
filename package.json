@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.23.0"
     },
+    "extensionKind": [
+		"ui",
+		"workspace"
+	],
     "icon": "images/icon.png",
     "categories": [
         "Other"
